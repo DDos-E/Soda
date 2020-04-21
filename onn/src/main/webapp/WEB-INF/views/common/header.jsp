@@ -24,6 +24,7 @@
 <meta name="description" content="Ahana Yoga HTML Template">
 <meta name="keywords" content="yoga, html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="${pageContext.request.contextPath }/resources/images/onn_logo_rec.png" title="OmNyomNyom"/>
 <!-- 로그인 모달창 라이브러리 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
